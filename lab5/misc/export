@@ -1,0 +1,4 @@
+source ~/ros_ws/devel/setup.bash
+export ROS_MASTER_URI=http://deeplearning03w.eecs.cwru.edu:11311
+export ROS_IP=129.22.143.219
+

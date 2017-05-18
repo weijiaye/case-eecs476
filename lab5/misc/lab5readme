@@ -1,0 +1,7 @@
+#map_making and Odometry
+These are the commanders we use to build the map. 
+## usage
+`rosrun teleop_twist_keyboard teleop_twist_keyboard.py`
+`rosrun rviz rviz`
+`rosrun gmapping slam_gmapping map:=map3`
+`rosrun map_server map_saver -f xiao_map map:=map3`
