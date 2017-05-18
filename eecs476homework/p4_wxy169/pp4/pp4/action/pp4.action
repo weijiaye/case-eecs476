@@ -1,0 +1,19 @@
+#goal
+
+
+nav_msgs/Path nav_path
+
+
+---
+#result 
+
+
+int32 output
+int32 goal_stamp
+
+
+---
+
+
+#feedback
+int32 fdbk
